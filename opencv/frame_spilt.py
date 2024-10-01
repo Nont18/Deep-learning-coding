@@ -1,5 +1,5 @@
 import cv2
-video_path = "opencv/image/dataset/" + "กระท่อม.mp4"
+video_path = "C:/Users/araya/Desktop/keypoints/video_extract/" + "กฎกระทรวง.mp4"
 
 # class_name = os.path.splitext(os.path.basename(video_path))[0]
         

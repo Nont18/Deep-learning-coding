@@ -1,2 +1,0 @@
-
-            temp = str(sentence[i])
